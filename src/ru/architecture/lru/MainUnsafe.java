@@ -1,5 +1,7 @@
 package ru.architecture.lru;
 
+import ru.architecture.lru.calculator.CalculatorWithCache;
+
 import java.util.Iterator;
 
 public class MainUnsafe {

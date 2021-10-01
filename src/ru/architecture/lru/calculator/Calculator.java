@@ -1,4 +1,4 @@
-package ru.architecture.lru;
+package ru.architecture.lru.calculator;
 
 public class Calculator {
     private final int offset;

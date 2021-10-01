@@ -1,5 +1,7 @@
 package ru.architecture.lru;
 
+import ru.architecture.lru.calculator.CalculatorWithCacheThreadSafe;
+
 import java.util.function.Consumer;
 
 public class MainThreadSafe {

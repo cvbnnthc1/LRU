@@ -1,4 +1,6 @@
-package ru.architecture.lru;
+package ru.architecture.lru.calculator;
+
+import ru.architecture.lru.map.LinkedMapWithCapacity;
 
 import java.util.*;
 
